@@ -1,6 +1,6 @@
 ﻿namespace GitPlayground
 {
-    internal interface IMessageCreator
+    internal interface ISpeaker
     {
         string Name { get; }
         string Message { get; }
