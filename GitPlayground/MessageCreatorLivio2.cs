@@ -8,6 +8,6 @@
 
         string IMessageCreator.Name => "Livio 2";
 
-        string IMessageCreator.Message => " I also would like to add that GIT is great";
+        string IMessageCreator.Message => " I also would like to add that GIT is great. Really.";
     }
 }
