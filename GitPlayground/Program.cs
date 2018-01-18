@@ -8,14 +8,14 @@ namespace GitPlayground
 {
     class Program
     {
-        private static List<IMessageCreator> messageCreators;
+        private static List<ISpeaker> messageCreators;
 
         static void Main(string[] args)
         {
 
-            messageCreators = new List<IMessageCreator>();
-            messageCreators.Add(new MessageCreatorLivio());
-            messageCreators.Add(new MessageCreatorLivio2());
+            messageCreators = new List<ISpeaker>();
+            messageCreators.Add(new SpeakerLivio());
+            messageCreators.Add(new SpeakerJohn());
 
             Console.WriteLine("Hello World!!!");
 
