@@ -16,6 +16,7 @@ namespace GitPlayground
             messageCreators = new List<ISpeaker>();
             messageCreators.Add(new SpeakerLivio());
             messageCreators.Add(new SpeakerJohn());
+            messageCreators.Add(new SpeakerMark());
 
             Console.WriteLine("Hello World!!!");
 
