@@ -6,7 +6,7 @@
         {
         }
 
-        string ISpeaker.Name => "Livio 2";
+        string ISpeaker.Name => "John";
 
         string ISpeaker.Message => " I also would like to add that GIT is great.";
     }
