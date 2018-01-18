@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IMessageCreator.cs" />
+    <Compile Include="MessageCreatorLivio2.cs" />
     <Compile Include="MessageCreatorLivio.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
