@@ -15,6 +15,7 @@ namespace GitPlayground
 
             messageCreators = new List<IMessageCreator>();
             messageCreators.Add(new MessageCreatorLivio());
+            messageCreators.Add(new MessageCreatorLivio2());
 
             Console.WriteLine("Hello World!!!");
 
