@@ -45,6 +45,7 @@
     <Compile Include="ISpeaker.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpeakerAlex.cs" />
     <Compile Include="SpeakerJohn.cs" />
     <Compile Include="SpeakerLivio.cs" />
     <Compile Include="SpeakerMark.cs" />
