@@ -8,6 +8,6 @@
 
         string ISpeaker.Name => "Mark";
 
-        string ISpeaker.Message => " I can't hear you guys....";
+        string ISpeaker.Message => " I can hear you now....";
     }
 }

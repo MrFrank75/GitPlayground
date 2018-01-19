@@ -49,6 +49,7 @@
     <Compile Include="SpeakerJohn.cs" />
     <Compile Include="SpeakerLivio.cs" />
     <Compile Include="SpeakerMark.cs" />
+    <Compile Include="SpeakerOliver.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
