@@ -10,6 +10,6 @@ namespace GitPlayground
     {
         public string Name => "Oliver";
 
-        public string Message => "Hello I am new here";
+        public string Message => "Hello I am new here ! Nice to meet you";
     }
 }
