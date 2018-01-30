@@ -8,6 +8,6 @@
 
         string ISpeaker.Name => "Mark";
 
-        string ISpeaker.Message => " Hello everyone, I m in bangalore";
+        string ISpeaker.Message => " Hello everyone, I m in bangalore and weather is great.";
     }
 }
