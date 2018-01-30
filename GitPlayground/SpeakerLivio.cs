@@ -8,6 +8,6 @@
 
         string ISpeaker.Name => "Livio";
 
-        string ISpeaker.Message => " Hi guys, I hope you are enjoying GIT. I'm sure Marcos already got it all.";
+        string ISpeaker.Message => "Hi everyone , I'm so happy to be in Bangalore.";
     }
 }
